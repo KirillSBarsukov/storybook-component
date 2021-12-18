@@ -1,8 +1,6 @@
 {
   "name": "typescript-storybook-component-library-template",
   "version": "1.0.0",
-  "repository": "git@github.com:MindTheCoin/typescript-storybook-component-library-template.git",
-  "author": "Claudia Matosa <claudiamatosa@users.noreply.github.com>",
   "license": "MIT",
   "main": "lib/index.js",
   "module": "lib/index.esm.js",
